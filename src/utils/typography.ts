@@ -39,6 +39,14 @@ const Typography = {
     fontFamily: 'Poppins-Regular',
     fontSize: getFontSize(32),
   },
+  regular25: {
+    fontFamily: 'Poppins-Regular',
+    fontSize: getFontSize(25),
+  },
+  regular30: {
+    fontFamily: 'Poppins-Regular',
+    fontSize: getFontSize(30),
+  },
 
   // Font sizes with weight 500 (Medium)
   medium8: {
